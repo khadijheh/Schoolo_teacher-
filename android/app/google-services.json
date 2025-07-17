@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "838994041314",
+    "project_id": "schoolteacher-9b8a7",
+    "storage_bucket": "schoolteacher-9b8a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838994041314:android:e8808ea75d9e7d8eab81bb",
+        "android_client_info": {
+          "package_name": "com.example.schoolo_teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUwrqrivu3wlozHop_9Ylp92CNxDEp0J8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838994041314:android:a65dcd4f369691a2ab81bb",
+        "android_client_info": {
+          "package_name": "com.example.schoolo_techear"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUwrqrivu3wlozHop_9Ylp92CNxDEp0J8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

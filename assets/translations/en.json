@@ -1,0 +1,274 @@
+{
+    "profile": {
+        "personal_info": "Personal Information",
+        "email": "Email",
+        "phone": "Phone",
+        "join_date": "Join Date",
+        "teacher_id": "Teacher ID",
+        "copied": "Copied to clipboard",
+        "edit": "Edit"
+    },
+    "edit_profile": {
+        "title": "Edit Profile",
+        "change_photo": "Change Profile Photo",
+        "take_photo": "Take Photo",
+        "choose_gallery": "Choose from Gallery",
+        "name": "Name",
+        "specialization": "Specialization",
+        "email": "Email",
+        "phone": "Phone",
+        "bio": "Biography",
+        "save": "Save",
+        "changes_saved": "Changes saved successfully"
+    },
+    "announcements": {
+        "search_hint": "Search announcements...",
+        "no_announcements": "No announcements available",
+        "staff_meeting": "Staff Meeting Reminder",
+        "grading_deadline": "Grading Deadline",
+        "professional_dev": "Professional Development",
+        "parent_conferences": "Parent-Teacher Conferences",
+        "classroom_supplies": "Classroom Supplies",
+        "important": "Important",
+        "read": "Read",
+        "unread": "Unread"
+    },
+    "settings": {
+        "select_language": "select language"
+    },
+    "home": "Home",
+    "schedule": "Schedule",
+    "notifications": "Notific",
+    "profilebotton": "Profile",
+    "sunday": "Sunday",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June",
+    "july": "July",
+    "august": "August",
+    "september": "September",
+    "october": "October",
+    "november": "November",
+    "december": "December",
+    "account": "Account",
+    "reset_password": "Reset Password",
+    "change_language": "Change Language",
+    "logout": "Logout",
+    "select_language": "Select Language",
+    "english": "English",
+    "arabic": "Arabic",
+    "subject": "Subject",
+    "time": "Time",
+    "classroom": "Classroom",
+    "no_classes_today": "No classes scheduled for today",
+    "enjoy_free_time": "Enjoy your free time!",
+    "close": "Close",
+    "schedulee": {
+        "title": "Schedule",
+        "empty_schedule": "No schedule for this day",
+        "days": [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "short_days": [
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+        ],
+        "subjects": {
+            "Mathematics": "Mathematics",
+            "Physics": "Physics",
+            "Literature": "Literature",
+            "Chemistry": "Chemistry",
+            "Advanced_Math": "Advanced Math",
+            "Quantum_Physics": "Quantum Physics"
+        },
+        "classroom": "Room",
+        "time_slots": {
+            "morning1": "8:00 - 9:30 AM",
+            "morning2": "10:00 - 11:30 AM",
+            "noon": "12:00 - 1:30 PM",
+            "afternoon1": "2:00 - 3:30 PM",
+            "afternoon2": "4:00 - 5:30 PM"
+        }
+    },
+    "subjects": {
+        "my_subjects": "My Subjects",
+        "no_subjects": "No subjects selected",
+        "complete_profile_message": "Please complete your profile to view your assigned subjects",
+        "complete_profile_button": "Complete Profile",
+        "classes": "classes",
+        "names": {
+            "math": "Mathematics",
+            "physics": "Physics",
+            "chemistry": "Chemistry",
+            "biology": "Biology",
+            "literature": "Literature",
+            "arabic": "Arabic",
+            "english": "English",
+            "history": "History",
+            "geography": "Geography",
+            "islamic": "Islamic Education",
+            "arts": "Arts",
+            "physical": "Physical Education",
+            "computer": "Computer Science",
+            "psychology": "Psychology",
+            "science": "General Science"
+        },
+        "descriptions": {
+            "math": "Explore the world of numbers and equations",
+            "science": "Discover the laws of nature and matter",
+            "language": "Study of language and literature",
+            "history": "Learn about past events and civilizations",
+            "geography": "Study of Earth's landscapes and environments",
+            "islamic": "Islamic teachings and principles",
+            "arts": "Creative expression through various mediums",
+            "physical": "Physical activities and health education",
+            "computer": "Technology and programming fundamentals",
+            "psychology": "Study of mind and behavior",
+            "default": "Educational subject"
+        }
+    },
+    "class_levels": {
+        "classes": "Classes",
+        "grade_2": "Grade 2",
+        "grade_3": "Grade 3",
+        "grade_4": "Grade 4",
+        "semester_1_2023_2024": "First Semester 2023/2024",
+        "semester_2_2023_2024": "Second Semester 2023/2024",
+        "section_a": "Section A",
+        "general": "General",
+        "students": "students",
+        "sections": "sections"
+    },
+    "sections": {
+        "loadSection": "Loading the section..",
+        "load_error": "Failed to load sections: {error}",
+        "title": "Sections"
+    },
+    "students": {
+        "title": "Students",
+        "initials": "Student",
+        "name": "khadijhe hassoun",
+        "phone": "0930539548"
+    },
+    "section_details": {
+        "title": "Section Details",
+        "name": "Name",
+        "type": "Type",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Not Active",
+        "capacity": "Capacity",
+        "students": "students",
+        "manage_students": "Manage Students"
+    },
+    "section_types": {
+        "general": "General",
+        "scientific": "Scientific",
+        "literary": "Literary"
+    },
+    "common": {
+        "cancel": "Cancel",
+        "delete": "Delete"
+    },
+    "section": {
+        "students": "students",
+        "content": "Content",
+        "exams": "Exams"
+    },
+    "content": {
+        "title": "Content Management",
+        "add_tooltip": "Add new content",
+        "search_hint": "Search for content...",
+        "loading": "Loading content...",
+        "empty_title": "No content available",
+        "empty_subtitle": "Tap the (+) button to add new content",
+        "delete_title": "Delete Content",
+        "delete_message": "Are you sure you want to delete this content? This action cannot be undone.",
+        "delete_success": "Content deleted successfully",
+        "uploaded_on": "Uploaded on",
+        "contents": "Contents",
+        "types": {
+            "All": "All",
+            "Image": "Image",
+            "Video": "Video",
+            "PDF": "PDF",
+            "Text": "Text",
+            "Other": "Other"
+        },
+        "add_new": "Add New Content",
+        "edit": "Edit Content",
+        "add_media": "Add Media & Files",
+        "gallery": "Gallery",
+        "videos": "Videos",
+        "files": "Files",
+        "selected_items": "Selected Items",
+        "save": "Save Content",
+        "success": "Content added successfully",
+        "validation": {
+            "required": "This field is required"
+        },
+        "error": {
+            "image_select": "Error selecting image: {0}",
+            "video_select": "Error selecting video: {0}",
+            "file_select": "Error selecting files: {0}",
+            "file_size": "One or more files exceed 10MB limit",
+            "general": "Error: {0}"
+        }
+    },
+    "exams_page_title": "Exams - {section}",
+    "no_exams_found": "No exams found",
+    "midterm_exam": "Midterm Exam",
+    "final_exam": "Final Exam",
+    "quiz": "Quiz",
+    "short_test": "Short Test",
+    "exam_description": "Exam covering all curriculum units",
+    "full_exam_description": "Comprehensive exam for all units",
+    "unit_review": "Unit review",
+    "max_score": "{score} points",
+    "marks_entered": "Marks entered",
+    "date_format": "{day}/{month}/{year}",
+    "exam_types": {
+        "midterm": "Midterm",
+        "final": "Final",
+        "quiz": "Quiz"
+    },
+    "exam_details": {
+        "class_label": "Class",
+        "section_label": "Section",
+        "subject_label": "Subject",
+        "students_list": "Students List",
+        "students_count": "{count} students",
+        "total_score": "Total Score: {score}",
+        "save_grades": "Save Grades",
+        "saving_grades": "Saving...",
+        "grades_saved": "Grades saved successfully",
+        "enter_valid_grade": "Please enter a valid grade between 0 and {maxScore}",
+        "enter_grade_for": "Please enter grade for {studentName}",
+        "invalid_grade_for": "Invalid grade for {studentName} (must be between 0 and {maxScore})",
+        "exam_type": {
+            "midterm": "Mid",
+            "final": "Final",
+            "quiz": "Quiz"
+        }
+    }
+}

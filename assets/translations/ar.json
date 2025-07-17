@@ -1,0 +1,271 @@
+{
+    "profile": {
+        "personal_info": "المعلومات الشخصية",
+        "email": "البريد الإلكتروني",
+        "phone": "رقم الهاتف",
+        "join_date": "تاريخ الانضمام",
+        "teacher_id": "معرف المعلم",
+        "copied": "تم النسخ إلى الحافظة",
+        "edit": "تعديل"
+    },
+    "edit_profile": {
+        "title": "تعديل الملف الشخصي",
+        "change_photo": "تغيير صورة الملف الشخصي",
+        "take_photo": "التقاط صورة",
+        "choose_gallery": "اختيار من المعرض",
+        "name": "الاسم",
+        "specialization": "التخصص",
+        "email": "البريد الإلكتروني",
+        "phone": "رقم الهاتف",
+        "bio": "السيرة الذاتية",
+        "save": "حفظ",
+        "changes_saved": "تم حفظ التغييرات بنجاح"
+    },
+    "announcements": {
+        "search_hint": "ابحث في الإعلانات...",
+        "no_announcements": "لا توجد إعلانات متاحة",
+        "staff_meeting": "تذكير باجتماع الموظفين",
+        "grading_deadline": "موعد تسليم الدرجات",
+        "professional_dev": "التطوير المهني",
+        "parent_conferences": "مؤتمرات أولياء الأمور",
+        "classroom_supplies": "لوازم الفصول الدراسية",
+        "important": "مهم",
+        "read": "مقروء",
+        "unread": "غير مقروء"
+    },
+    "home": "الرئيسية",
+    "schedule": "الجدول",
+    "notifications": "الإشعارات",
+    "profilebotton": "الملف الشخصي",
+    "sunday": "الأحد",
+    "monday": "الإثنين",
+    "tuesday": "الثلاثاء",
+    "wednesday": "الأربعاء",
+    "thursday": "الخميس",
+    "friday": "الجمعة",
+    "saturday": "السبت",
+    "january": "يناير",
+    "february": "فبراير",
+    "march": "مارس",
+    "april": "أبريل",
+    "may": "مايو",
+    "june": "يونيو",
+    "july": "يوليو",
+    "august": "أغسطس",
+    "september": "سبتمبر",
+    "october": "أكتوبر",
+    "november": "نوفمبر",
+    "december": "ديسمبر",
+    "account": "الحساب",
+    "reset_password": "إعادة تعيين كلمة المرور",
+    "change_language": "تغيير اللغة",
+    "logout": "تسجيل الخروج",
+    "select_language": "اختر اللغة",
+    "english": "الإنجليزية",
+    "arabic": "العربية",
+    "subject": "المادة",
+    "time": "الوقت",
+    "classroom": "القاعة",
+    "no_classes_today": "لا توجد حصص اليوم",
+    "enjoy_free_time": "استمتع بوقت فراغك!",
+    "close": "إغلاق",
+    "schedulee": {
+        "title": "الجدول الدراسي",
+        "empty_schedule": "لا يوجد جدول لهذا اليوم",
+        "days": [
+            "الأحد",
+            "الإثنين",
+            "الثلاثاء",
+            "الأربعاء",
+            "الخميس",
+            "الجمعة",
+            "السبت"
+        ],
+        "short_days": [
+            "أحد",
+            "إثنين",
+            "ثلاثاء",
+            "أربعاء",
+            "خميس",
+            "جمعة",
+            "سبت"
+        ],
+        "subjects": {
+            "Mathematics": "الرياضيات",
+            "Physics": "الفيزياء",
+            "Literature": "الأدب",
+            "Chemistry": "الكيمياء",
+            "Advanced_Math": "رياضيات متقدمة",
+            "Quantum_Physics": "فيزياء الكم"
+        },
+        "classroom": "القاعة",
+        "time_slots": {
+            "morning1": "8:00 - 9:30 ص",
+            "morning2": "10:00 - 11:30 ص",
+            "noon": "12:00 - 1:30 م",
+            "afternoon1": "2:00 - 3:30 م",
+            "afternoon2": "4:00 - 5:30 م"
+        }
+    },
+    "subjects": {
+        "my_subjects": "موادي الدراسية",
+        "no_subjects": "لا توجد مواد محددة",
+        "complete_profile_message": "يرجى إكمال ملفك الشخصي لعرض المواد المخصصة لك",
+        "complete_profile_button": "إكمال الملف الشخصي",
+        "classes": "حصص",
+        "names": {
+            "math": "الرياضيات",
+            "physics": "الفيزياء",
+            "chemistry": "الكيمياء",
+            "biology": "الأحياء",
+            "literature": "الأدب",
+            "arabic": "اللغة العربية",
+            "english": "اللغة الإنجليزية",
+            "history": "التاريخ",
+            "geography": "الجغرافيا",
+            "islamic": "التربية الإسلامية",
+            "arts": "الفنون",
+            "physical": "التربية البدنية",
+            "computer": "علوم الحاسب",
+            "psychology": "علم النفس",
+            "science": "العلوم العامة"
+        },
+        "descriptions": {
+            "math": "استكشف عالم الأرقام والمعادلات",
+            "science": "اكتشف قوانين الطبيعة والمادة",
+            "language": "دراسة اللغة والأدب",
+            "history": "تعرف على الأحداث والحضارات السابقة",
+            "geography": "دراسة تضاريس وبيئات الأرض",
+            "islamic": "تعاليم ومبادئ الإسلام",
+            "arts": "التعبير الإبداعي عبر وسائط مختلفة",
+            "physical": "الأنشطة البدنية والتوعية الصحية",
+            "computer": "أساسيات التكنولوجيا والبرمجة",
+            "psychology": "دراسة العقل والسلوك",
+            "default": "مادة دراسية"
+        }
+    },
+    "class_levels": {
+        "classes": "الصفوف",
+        "grade_2": "الصف الثاني",
+        "grade_3": "الصف الثالث",
+        "grade_4": "الصف الرابع",
+        "semester_1_2023_2024": "الفصل الدراسي الأول 2023/2024",
+        "semester_2_2023_2024": "الفصل الدراسي الثاني 2023/2024",
+        "section_a": "شعبة أ",
+        "general": "عام",
+        "students": "طالب",
+        "sections": "شعبة"
+    },
+    "sections": {
+        "loadSection": "جاري تحميل الشعب ..",
+        "load_error": "فشل تحميل الشعب: {error}",
+        "title": "الشعب"
+    },
+    "students": {
+        "title": " طلاب",
+        "initials": "طالب",
+        "name": " خديجة حسون",
+        "phone": " 0994548452"
+    },
+    "section_details": {
+        "title": "تفاصيل الشعبة",
+        "name": "الاسم",
+        "type": "النوع",
+        "status": "الحالة",
+        "active": "نشطة",
+        "inactive": "غير نشطة",
+        "capacity": "السعة",
+        "students": "طالب",
+        "manage_students": "إدارة الطلاب"
+    },
+    "section_types": {
+        "general": "عام",
+        "scientific": "علمي",
+        "literary": "أدبي"
+    },
+    "common": {
+        "cancel": "إلغاء",
+        "delete": "خذف"
+    },
+    "section": {
+        "students": "طالب",
+        "content": "المحتوى",
+        "exams": "الامتحان"
+    },
+    "content": {
+        "title": "إدارة المحتوى",
+        "add_tooltip": "إضافة محتوى جديد",
+        "search_hint": "ابحث عن المحتوى...",
+        "loading": "جاري تحميل المحتوى...",
+        "empty_title": "لا يوجد محتوى متاح",
+        "empty_subtitle": "اضغط على زر (+) لإضافة محتوى جديد",
+        "delete_title": "حذف المحتوى",
+        "delete_message": "هل أنت متأكد أنك تريد حذف هذا المحتوى؟ لا يمكن التراجع عن هذا الإجراء.",
+        "delete_success": "تم حذف المحتوى بنجاح",
+        "types": {
+            "All": "الكل",
+            "Image": "صورة",
+            "Video": "فيديو",
+            "PDF": "ملف PDF",
+            "Text": "نص",
+            "Other": "أخرى"
+        },
+        "add_new": "إضافة محتوى جديد",
+        "edit": "تعديل المحتوى",
+        "add_media": "إضافة وسائط وملفات",
+        "gallery": "معرض الصور",
+        "videos": "مقاطع الفيديو",
+        "files": "ملفات",
+        "selected_items": "العناصر المحددة",
+        "save": "حفظ المحتوى",
+        "success": "تم إضافة المحتوى بنجاح",
+        "validation": {
+            "required": "هذا الحقل مطلوب"
+        },
+        "error": {
+            "image_select": "خطأ في اختيار الصورة: {0}",
+            "video_select": "خطأ في اختيار الفيديو: {0}",
+            "file_select": "خطأ في اختيار الملفات: {0}",
+            "file_size": "واحد أو أكثر من الملفات يتجاوز الحد المسموح به 10 ميجابايت",
+            "general": "خطأ: {0}"
+        }
+    },
+    "exams_page_title": "الامتحانات - {section}",
+    "no_exams_found": "لا توجد امتحانات متاحة حالياً",
+    "midterm_exam": "امتحان منتصف الفصل",
+    "final_exam": "امتحان نهاية الفصل",
+    "quiz": "اختبار قصير",
+    "short_test": "مذاكرة",
+    "exam_description": "امتحان في جميع وحدات المنهج",
+    "full_exam_description": "امتحان شامل لجميع الوحدات",
+    "unit_review": "مراجعة الوحدة",
+    "max_score": "{score} درجة",
+    "marks_entered": "تم إدخال العلامات",
+    "date_format": "{day}/{month}/{year}",
+    "exam_types": {
+        "midterm": "نصفي",
+        "final": "نهائي",
+        "quiz": "مذاكرة"
+    },
+    "exam_details": {
+        "class_label": "الصف",
+        "section_label": "الشعبة",
+        "subject_label": "المادة",
+        "students_list": "قائمة الطلاب",
+        "students_count": "{count} طالب",
+        "total_score": "الدرجة : {score}",
+        "save_grades": "حفظ الدرجات",
+        "saving_grades": "جاري الحفظ...",
+        "grades_saved": "تم حفظ الدرجات بنجاح",
+        "enter_valid_grade": "الرجاء إدخال درجة صحيحة بين 0 و {maxScore}",
+        "enter_grade_for": "الرجاء إدخال درجة للطالب {studentName}",
+        "invalid_grade_for": "درجة غير صحيحة للطالب {studentName} (يجب أن تكون بين 0 و {maxScore})",
+        "exam_type": {
+            "midterm": "نصفي",
+            "final": "نهائي",
+            "quiz": "اختبار قصير"
+        },
+        "student_1": "أحمد محمد",
+        "student_2": "سارة علي"
+    }
+}
